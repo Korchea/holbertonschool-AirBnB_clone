@@ -3,16 +3,16 @@
     flex-wrap: wrap;
     align-items: stretch;
     justify-content: center;
-  }
-  
-  .places h1 {
+}
+
+.places h1 {
     width: 100%;
     margin-bottom: auto;
     margin-right: auto;
     font-size: 30px;
-  }
-  
-  .places article {
+}
+
+.places article {
     width: 390px;
     padding: 20px;
     margin: 20px;
@@ -21,16 +21,16 @@
     height: auto;
     display: flex;
     flex-direction: column;
-  align-items: stretch;
-  }
-  
-  .places h2 {
+    align-items: stretch;
+}
+
+.places h2 {
     position: absolute;
     font-size: 30px;
     text-align: center;
     margin: 0;
     margin-left: 130px;
-  }
+}
 
 .places .price_by_night {
     display: flex;
